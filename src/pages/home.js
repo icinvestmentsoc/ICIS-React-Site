@@ -2,19 +2,6 @@ import { useRef, useEffect } from 'react';
 import mapboxgl from 'mapbox-gl';
 
 export default function Home () {
-  const mapContainer = useRef(null);
-  const map = useRef(null);
-  useEffect(() => {
-    if (map.current) return; // initialize map only once
-    mapboxgl.accessToken = 'pk.eyJ1IjoiZXdhbm1pbGxzIiwiYSI6ImNrc2oxbjdhbjI5Y3oydm9kcXhhZGZqODgifQ.vUF2rHjVHq6nWAm9s6cNLA';
-    map.current = new mapboxgl.Map({
-      container: mapContainer.current, // container ID
-      style: 'mapbox://styles/mapbox/streets-v11', // style URL
-      center: [-0.176894, 51.498356], // starting position [lng, lat]
-      zoom: 14 // starting zoom
-    });
-  }, [])
-
   return (
     <>
       <section class="bg-dark text-light p-5 pt-lg-5 text-center text-sm-start">
@@ -54,22 +41,6 @@ export default function Home () {
           </div>
         </div>
       </section>
-
-      {/*Newsletter*/}
-      {/* < section class="bg-primary text-light p-5" >
-            <div class="container">
-                <div class="d-md-flex justify-content-between align-items-center">
-                    <h3 class="mb-3 mb-md-0">Sign up to our mailing list!</h3>
-                    mb-md-0 = margin-bottom at medium size and greater sizes becomes 0px
-                    <div class="input-group news-input">
-                        <input type="text" class="form-control" placeholder="Enter Email">
-                        <div class ="input-group-append">
-                        <button class ="btn btn-dark btn-lg" type ="button">Sign Up</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section > */}
       {/*Boxes*/}
       <section class="pt-4 p-md-5">
         <div class="container">
@@ -257,9 +228,6 @@ export default function Home () {
                   <span class="fw-bold">Email:</span> icu.investmentsociety@imperial.ac.uk
                 </li>
               </ul>
-            </div>
-            <div class="col-md">
-              <div ref={mapContainer} className="map-container" />
             </div>
           </div>
         </div>

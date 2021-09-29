@@ -43,26 +43,9 @@ export default function Partners() {
 
 
       {/* bronze sponsors */}
-      <section id="learn" class="pt-3 px-3 pb-2 bg-info text-white">
+      <section id="learn" class="pt-3 px-3 pb-2 bg-light text-dark">
         <div class="container">
-          <div class="row align-items-center justify-content-between">
-            <h2 style={{ textAlign: "center" }}> <span> BRONZE SPONSORS</span> </h2>
-            <div class="col-md mb-3 mb-md-0">
-              <h3>Careerships</h3>
-              <p class="lead">Careerships is an award winning and internationally reaching career transformation company.
-                With clients ranging from graduates through to C-Suite executives and heads of state,
-                they operate across 12 countries and have a 100% success rate in helping individuals understand what they want to do with their career and then partner with them to help them achieve those objectives.</p>
-              <p class="lead">
-                Using a unique blend of psychology, human resources, people dynamics, artificial intelligence and research, they work in partnership with individuals to ensure that their career objectives and ambitions are realised.Founded in 2020 with aggressive growth plans and a mission to change the career landscape across the globe, they also partner with other professional and academic organisations and conduct pro bono work on a monthly basis to assist undergraduates.
-              </p>
-            </div>
-            <div class="col-md mb-3 mb-md-0">
-              <div clas="col-md-6 offset-md-4 my-auto text-center">
-                <img class="mx-auto d-block" alt="Responsive image" src="img/bronze sponsors/logo_careerships.svg" width="50%" />
-              </div>
-            </div>
-          </div>
-
+        <h2 style={{ textAlign: "center" }}> <span> BRONZE SPONSORS</span> </h2>
           <div class="row align-items-center justify-content-between">
             <div class="col-md mb-3 mb-md-0">
               <h3>Aragon</h3>
@@ -85,6 +68,25 @@ export default function Partners() {
               </div>
             </div>
           </div>
+
+          <div class="row align-items-center justify-content-between">
+            
+            <div class="col-md mb-3 mb-md-0">
+              <h3>Careerships</h3>
+              <p class="lead">Careerships is an award winning and internationally reaching career transformation company.
+                With clients ranging from graduates through to C-Suite executives and heads of state,
+                they operate across 12 countries and have a 100% success rate in helping individuals understand what they want to do with their career and then partner with them to help them achieve those objectives.</p>
+              <p class="lead">
+                Using a unique blend of psychology, human resources, people dynamics, artificial intelligence and research, they work in partnership with individuals to ensure that their career objectives and ambitions are realised. Founded in 2020 with aggressive growth plans and a mission to change the career landscape across the globe, they also partner with other professional and academic organisations and conduct pro bono work on a monthly basis to assist undergraduates.
+              </p>
+            </div>
+            <div class="col-md mb-3 mb-md-0">
+              <div clas="col-md-6 offset-md-4 my-auto text-center">
+                <img class="mx-auto d-block" alt="Responsive image" src="img/bronze sponsors/logo_careerships.svg" width="50%" />
+              </div>
+            </div>
+          </div>
+
         </div>
       </section>
 
@@ -94,7 +96,7 @@ export default function Partners() {
           <div class="row align-items-center justify-content-between">
             <h2 style={{ textAlign: "center" }}> <span> PARTNERS</span> </h2>
             <div class="col-md mb-3 mb-md-0">
-              <h3>Chinese Alpha</h3>
+              <h3>ChineseAlpha</h3>
               <p class="lead">ChineseAlpha is an equity research platform that demystifies listed Chinese companies by providing in-depth, quality research. </p>
               <p class="lead">
                 Its goal is to become the ultimate reference for research and coverage of Chinese equity markets with the purpose of allowing global investors to make accurate and informed investment decisions.
