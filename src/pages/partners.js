@@ -45,7 +45,20 @@ export default function Partners() {
       {/* bronze sponsors */}
       <section id="learn" class="pt-3 px-3 pb-2 bg-light text-dark">
         <div class="container">
-        <h2 style={{ textAlign: "center" }}> <span> BRONZE SPONSORS</span> </h2>
+        <h2 style={{ textAlign: "center" }}> <span style={{
+            backgroundImage: `linear-gradient(
+                to right,
+                #462523 0,
+                       #cb9b51 22%, 
+                #f6e27a 45%,
+                #f6f2c0 50%,
+                #f6e27a 55%,
+                #cb9b51 78%,
+                #462523 100%
+                )`,
+            color: "transparent",
+            WebkitBackgroundClip: "text", backgroundClip: "text"
+          }}>BRONZE SPONSORS</span> </h2>
           <div class="row align-items-center justify-content-between">
             <div class="col-md mb-3 mb-md-0">
               <h3>Aragon</h3>
@@ -64,7 +77,7 @@ export default function Partners() {
             </div>
             <div class="col-md mb-3 mb-md-0">
               <div clas="col-md-6 offset-md-4 my-auto text-center">
-                <img class="mx-auto d-block" alt="Responsive image" src="img/bronze sponsors/aragon.svg" width="50%" />
+                <img class="mx-auto d-block" alt="Responsive image" src="img/bronze sponsors/aragon-black.svg" width="50%" />
               </div>
             </div>
           </div>

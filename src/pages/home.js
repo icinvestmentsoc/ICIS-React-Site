@@ -100,7 +100,20 @@ export default function Home () {
       {/*bronze sponsors*/}
       <section id="bronze_sponsors" class="py-5 p-lg-5 bg-dark">
         <div class="container">
-          <h2 style={{textAlign:"center",color:"#A97142"}}> BRONZE SPONSORS</h2>
+        <h2 style={{ textAlign: "center" }}> <span style={{
+            backgroundImage: `linear-gradient(
+                to right,
+                #462523 0,
+                       #cb9b51 22%, 
+                #f6e27a 45%,
+                #f6f2c0 50%,
+                #f6e27a 55%,
+                #cb9b51 78%,
+                #462523 100%
+                )`,
+            color: "transparent",
+            WebkitBackgroundClip: "text", backgroundClip: "text"
+          }}>BRONZE SPONSORS</span> </h2>
           <div class="row text-center g-2"> {/* g is for gutters, not gap. A google image will suffice to explain what the gutter is.*/}
             <div class="col-md">
               <img class="img-fluid " alt="Responsive image" src="img/bronze sponsors/logo_careerships.svg" />
