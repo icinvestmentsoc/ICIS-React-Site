@@ -94,9 +94,6 @@ export default function Home () {
           </div>
         </div>
       </section>
-
-
-
       {/*bronze sponsors*/}
       <section id="bronze_sponsors" class="py-5 p-lg-5 bg-dark">
         <div class="container">
