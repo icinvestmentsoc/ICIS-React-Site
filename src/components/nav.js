@@ -21,13 +21,7 @@ export default function Nav() {
               <Link to="/team" class="nav-link">Team</Link>
             </li>
             <li class="navbar-item">
-              <Link to="/sec" class="nav-link">SEC</Link>
-            </li>
-            <li class="navbar-item">
               <Link to="/partners" class="nav-link">Partners</Link>
-            </li>
-            <li class="navbar-item">
-              <Link to="/events" class="nav-link">Events</Link>
             </li>
           </ul>
         </div>

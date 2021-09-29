@@ -1,5 +1,6 @@
 {
   "name": "icis-site-react",
+  "homepage": "https://investmentsoc.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
