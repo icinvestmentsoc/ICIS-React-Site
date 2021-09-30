@@ -6,7 +6,7 @@ export default function SEC(){
        
         <div class="row align-items-center justify-content-between">
     
-        <div class="col-md p-md-5">
+        <div class="col-md p-md-5 pt-2">
         <h2 class="fw-bold"> ABOUT THE SEC </h2>
           <p class="lead"> The Investment Society's flagship lecture course has been remodelled with a revised
             syllabus and teaching style to boost your knowledge and skills for a career in

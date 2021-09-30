@@ -10,6 +10,7 @@ import ImpactInvesting from './pages/impact_investing';
 import Team from './pages/team';
 import Partners from './pages/partners';
 import SEC from './pages/sec';
+import QTCapital from './pages/qtcapital';
 import './App.css';
 
 function App() {
@@ -18,6 +19,9 @@ function App() {
       <Router>
         <Nav />
         <Switch>
+        <Route path="/qtcapital">
+            <QTCapital/>
+          </Route>
         <Route path="/sec">
             <SEC/>
           </Route>
