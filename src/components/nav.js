@@ -31,19 +31,13 @@ export default function Nav() {
                 <Link to="/SEC" class="nav-link">SEC</Link>
               </li>
               <li class="navbar-item ">
-              <Link to="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">QT Capital  </Link>
-                   <div class="dropdown-menu">
-                        <a href="#" class="dropdown-item">Inbox</a>
-                        <a href="#" class="dropdown-item">Drafts</a>
-                         <a href="#" class="dropdown-item">Sent Items</a>
-                            
-               </div>
-              
-   
+              <Link to="/qtcapital" class="nav-link" >QT Capital  </Link>
               </li>
             </ul>
           </div>
         </div>
+
+      
     </nav>
   )
 }

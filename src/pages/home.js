@@ -72,6 +72,7 @@ export default function Home () {
                   <p class="card-text">
                     Our Securities and Education Certificate, where we teach our members about fundamental and technical investment analysis.
                   </p>
+                  <a href="/SEC" class="btn btn-primary stretched-link">Read More</a>
                 </div>
               </div>
             </div>
@@ -91,11 +92,29 @@ export default function Home () {
                 </div>
               </div>
             </div>
+            <div class="col-md d-flex align-items-stretch">
+              <div class="card bg-secondary text-light">
+                <div class="card-body text-center">
+                  <div class="h1 mb-3">
+                    <i class="bi bi-play-fill"></i>
+                  </div>
+                  <h3 class="card-title mb-3">
+                    QT Capital Research Analysts Applications
+                  </h3>
+                  <div class="mb-4">
+                  <p class="card-text">
+                    Apply to become an analyst in our investment fund.
+                  </p>
+                  </div>
+                  <a href="/qtcapital" class="btn btn-primary stretched-link">Read More</a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </section>
       {/*bronze sponsors*/}
-      <section id="bronze_sponsors" class="py-5 p-lg-5 bg-dark">
+     {/*<section id="bronze_sponsors" class="py-5 p-lg-5 bg-dark">
         <div class="container">
         <h2 style={{ textAlign: "center" }}> <span style={{
             backgroundImage: `linear-gradient(
@@ -111,7 +130,7 @@ export default function Home () {
             color: "transparent",
             WebkitBackgroundClip: "text", backgroundClip: "text"
           }}>BRONZE SPONSORS</span> </h2>
-          <div class="row text-center g-2"> {/* g is for gutters, not gap. A google image will suffice to explain what the gutter is.*/}
+          <div class="row text-center g-2"> {/* g is for gutters, not gap. A google image will suffice to explain what the gutter is.
             <div class="col-md">
               <img class="img-fluid " alt="Responsive image" src="img/bronze sponsors/logo_careerships.svg" />
             </div>
@@ -120,7 +139,7 @@ export default function Home () {
             </div>
           </div>
         </div>
-      </section>
+        </section> */}
 
       {/*Learn Sections*/}
       <section id="learn" class="py-5 p-lg-5">
