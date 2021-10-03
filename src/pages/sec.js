@@ -24,7 +24,7 @@ export default function SEC(){
             icu.investmentsociety@imperial.ac.uk. </p>
           <p class="lead">Use the form below to sign up:</p>
           <div class="pb-3">
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScxEcttssqPQDut4wmnVVEcgp1vGWHaJYaCf684yHRGnDLALw/viewform" class="btn btn-primary btn-sm fs-3"> 
+                <a href="https://forms.office.com/r/4UkWVazUX3" class="btn btn-primary btn-sm fs-3"> 
                 <i class="bi bi-chevron-right"></i> Sign up for the SEC </a>
               </div>
         </div>

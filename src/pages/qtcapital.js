@@ -17,7 +17,7 @@ export default function QTCapital(){
             members of the Investment Society. </p>
         </div>
         <div class="col-md mb-1">
-        <img src="img/qtcapital/QT capital Logo MK-II White.svg" class="mx-auto d-block" alt="" width="55%" />
+        <img src="img/qtcapital/QT capital Logo MK-II White.svg" class="mx-auto d-block" alt="" width="45%" />
             </div>
         </div>
         </div>
@@ -104,7 +104,7 @@ export default function QTCapital(){
         <div class="col-md p-md-2 pt-0">
         <h3 class="fw-bold">What The Role Entails</h3>
         <p class="lead"> The central role of the research analysts is to <strong> research investment ideas and pitch two
-        ideas per term </strong>. During non-pitching weeks, main fund analysts will be asked to produce a
+        ideas per term</strong>. During non-pitching weeks, main fund analysts will be asked to produce a
         brief report on the main market moves in their sector for that week which may be featured
         in the Investment column of Felix. </p>
         <p class="lead"> For systematic and cryptocurrency analysts, the structure will be slightly different. The
@@ -126,7 +126,7 @@ export default function QTCapital(){
         <div class="col-md p-md-2 pt-1">
             <h2 class="fw-bold">Investment Philosophy</h2>
             <p class="lead">The fund’s objective is clear cut: we seek to generate superior risk-adjusted returns via
-            ethical and sustainable investments back by systematic and rigorous research. We aim to be
+            ethical and sustainable investments backed by systematic and rigorous research. We aim to be
             adventurous whilst keeping a strict tally on our risk exposure, and to this end the systematic
             and cryptocurrency sub-funds are a valuable addition this year.</p>
             <p class="lead">We include all members of the Investment Society in the decision-making process via

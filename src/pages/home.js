@@ -113,6 +113,88 @@ export default function Home () {
           </div>
         </div>
       </section>
+
+      <section class="pt-4 p-md-5 bg-dark text-light">
+        <div class="container">
+          <div class="row text-center g-md-4">
+             {/*g is for gutters, not gap. A google image will suffice to explain what the gutter is.*/}
+             <h2>Investment Society Events</h2>
+            <div class="col-md d-flex align-items-stretch">
+              <div class="card bg-light text-dark">
+                <div class="card-body text-center">
+                  <div class="h2 mb-3">
+                    An introductory presentation to the Investment Society and our own QT Capital
+                  </div>
+                  <h3 class="card-title mb-3">
+                    12 Oct 2021 18:00-20:30  
+                  </h3>
+                  <h3 class="card-title mb-3">
+                   <strong> Huxley 308/311 </strong> 
+                  </h3>
+                  <p class="card-text">
+                   <p> The Investment Society kicks off the year with an introductory presentation to showcase its projects, courses and
+                    programmes that you can get involved in! </p>
+                   <p> You'll be able to find us in Haxley(located in the Computing department)and network with the committee and fellow members.</p>
+                   <p> <strong><p>Join us for the good vibes(and the free food,hopefully!)-we hope to see you there!</p></strong> </p>
+                  </p>
+                  <img src="img/main-logo-black-outlined.svg" width="70%"></img>
+                </div>
+              </div>
+            </div>
+            
+            <div class="col-md d-flex align-items-stretch">
+              <div class="card bg-secondary text-light">
+                <div class="card-body text-center">
+                  <div class="h2 mb-5">
+                    Demystifying Chinese Investments with ChineseAlpha
+                  </div>
+                  <h3 class="card-title mb-3">
+                    19 Oct 2021 18:00-20:30  </h3>
+                    <h3 class="card-title mb-3">
+                     <strong>Huxley 308/311</strong>
+                  </h3>
+                  <p class="card-text mb-4">
+                  <p>  The Investment Society will collaborate with ChineseAlpha to understand how to invest in Chinese equity. In this event,
+                    you will be introduced to Chinese macroeconomics,followed by regulation concerns and its unique VIE structure,
+                    and finally understand Chinese portfolio allocations and research methods. </p>
+                  </p>
+                  <p class="card-text mb-5">
+                  <p> <strong>Contact Ethan Cui (qc420@ic.ac.uk, see right) for more information.</strong> </p>
+                  </p>
+                  <img src="img/partners/CA_logo.svg"></img>
+                </div>
+              </div>
+            </div>
+            <div class="col-md d-flex align-items-stretch">
+              <div class="card bg-light text-dark">
+                <div class="card-body text-center">
+                  <div class="h2 mb-3">
+                    An Introduction to AmplifyMe and the Finance Accelerator Simulation
+                  </div>
+                  <h3 class="card-title mb-3">
+                    27 Oct 2021 16:00 onwards
+                  </h3>
+                  <h3 class="card-title mb-3">
+                    <strong>LOCATION TBC</strong>
+                  </h3>
+                  <div class="mb-4">
+                  <p class="card-text">
+                    <p>Join Amplify on the 27<sup>th</sup> October to experience the same trading simulations used
+                    by the world leading banks to enhance your market awareness. Gain hands on experience of both the 
+                    sell-side and buy-side giving you exposure to life as a market maker as well as an asset manager.</p>
+                  </p>
+                  <p class="card-text mb-5">
+                  <p> <strong>Contact George Spencer (gws19@ic.ac.uk, see right) for more information.</strong> </p>
+                  </p>
+                  <img src="img/partners/amplify-logo.png" width="50%"></img>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
       {/*bronze sponsors*/}
      {/*<section id="bronze_sponsors" class="py-5 p-lg-5 bg-dark">
         <div class="container">
@@ -161,7 +243,7 @@ export default function Home () {
         <div class="container">
           <div class="row align-items-center justify-content-between">
             <div class="col-md pt-4 p-md-5">
-              <h2>OUR MISSION</h2>
+              <h2>Our Mission</h2>
               <p class="lead">The Imperial College Investment Society was founded in October 2015, with the aim of educating members on investment value techniques and has grown steadily year on year. We host interactive weekly investment meetings where our members have the chance to present, ask questions and vote on whether to add investment pitches to our virtual portfolio. </p>
               <p class="lead"> By submersing themselves in the world’s financial news, jargon and investment theory our members develop vital commercial awareness and financial acumen, which is critical to delivering value in any setting. </p>
               <p class="lead"> We also expose our members to a diverse range of career opportunities ranging from Banking to Asset Management through office visits and speaker sessions from industry professionals.</p>
