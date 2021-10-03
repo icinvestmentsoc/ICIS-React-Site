@@ -134,7 +134,7 @@ export default function Home () {
                   <p class="card-text">
                    <p> The Investment Society kicks off the year with an introductory presentation to showcase its projects, courses and
                     programmes that you can get involved in! </p>
-                   <p> You'll be able to find us in Haxley(located in the Computing department)and network with the committee and fellow members.</p>
+                   <p> You'll be able to find us in Huxley(located in the Computing department)and network with the committee and fellow members.</p>
                    <p> <strong><p>Join us for the good vibes(and the free food,hopefully!)-we hope to see you there!</p></strong> </p>
                   </p>
                   <img src="img/main-logo-black-outlined.svg" width="70%"></img>
@@ -159,7 +159,7 @@ export default function Home () {
                     and finally understand Chinese portfolio allocations and research methods. </p>
                   </p>
                   <p class="card-text mb-5">
-                  <p> <strong>Contact Ethan Cui (qc420@ic.ac.uk, see right) for more information.</strong> </p>
+                  <p> <strong>Contact Ethan Cui (qc420@ic.ac.uk) for more information.</strong> </p>
                   </p>
                   <img src="img/partners/CA_logo.svg"></img>
                 </div>
@@ -184,7 +184,7 @@ export default function Home () {
                     sell-side and buy-side giving you exposure to life as a market maker as well as an asset manager.</p>
                   </p>
                   <p class="card-text mb-5">
-                  <p> <strong>Contact George Spencer (gws19@ic.ac.uk, see right) for more information.</strong> </p>
+                  <p> <strong>Contact George Spencer (gws19@ic.ac.uk) for more information.</strong> </p>
                   </p>
                   <img src="img/partners/amplify-logo.png" width="50%"></img>
                   </div>
