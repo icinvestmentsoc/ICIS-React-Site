@@ -1,3 +1,5 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
 export const Footer = () => (
     <footer class="p-5 bg-dark text-white text-center position-relative">
         <div class="container">

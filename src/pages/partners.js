@@ -1,6 +1,8 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
 export default function Partners() {
   return (
-    <>
+    <div>
       {/* gold sponsors */}
       <section id="learn" class="pt-3 pb-2 px-3 bg-dark text-light">
         <div class="container">
@@ -125,6 +127,6 @@ export default function Partners() {
           </div>
         </div>
       </section>
-    </>
+    </div>
   )
 }

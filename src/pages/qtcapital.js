@@ -1,6 +1,8 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
 export default function QTCapital(){
     return(
-        <>
+        <div>
         <section id="learn" class="pt-4 px-3 bg-dark text-light">
         <div class="container">
        
@@ -48,7 +50,7 @@ export default function QTCapital(){
 
         <div class="row align-items-center justify-content-between">
         <div class="col-md p-md-2 pt-0">
-        <h3 class="fw-bold">Available Roles</h3>
+        <h3 class="fw-bold">Positions Available</h3>
         <p class="lead">Currently we have several research analyst roles available for Investment Society members
         to apply for and will be recruiting on a rolling basis with applications closing on 16th
         October, 23:59 BST. No prior experience is required as the society will provide adequate
@@ -93,7 +95,7 @@ export default function QTCapital(){
 
         <div class="row align-items-center justify-content-between">
         <div class="col-md p-md-2 pt-0">
-        <h3 class="fw-bold">Cryptocurrency</h3>
+        <h3 class="fw-bold">Cryptocurrency Fund</h3>
         <p class="lead"> Research analysts will learn how to invest and pitch a select number of cryptocurrencies
         (beyond the mostly commonly known ones). </p>
         <p class="lead"> (4 roles available) </p>
@@ -145,6 +147,6 @@ export default function QTCapital(){
          </div>   
         </div>
     </section>
-        </>
+        </div>
     )
 }

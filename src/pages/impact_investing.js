@@ -1,6 +1,8 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
 export default function ImpactInvesting() {
   return (
-    <>
+    <div>
       <section id="learn" class="pt-3 px-3 bg-dark text-light">
         <div class="container">
           <div class="row align-items-center justify-content-between">
@@ -515,7 +517,7 @@ export default function ImpactInvesting() {
           </div>
         </div>
       </section>
-    </>
+    </div>
   )
 
 }

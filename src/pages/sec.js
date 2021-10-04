@@ -1,6 +1,8 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
 export default function SEC(){
     return (
-        <>
+        <div>
     <section id="learn" class="pt-4 px-3 bg-dark text-light">
         <div class="container">
        
@@ -19,7 +21,8 @@ export default function SEC(){
             end of the course, you will be given a certificate that you can present to prospective
             employers on your CV. </p>
           <p class="lead"> Applications are now open and will close on the 13<sup>th</sup> October. Lectures will begin on the 16th of
-            October at 10am, every week for 4 weeks. </p>
+            October at 10am, every week for 4 weeks. We have a first come, first-served registration system, so apply now in order not to
+            miss out on this opportunity! </p>
           <p class="lead"> If you have any questions, feel free to contact us at
             icu.investmentsociety@imperial.ac.uk. </p>
           <p class="lead">Use the form below to sign up:</p>
@@ -35,6 +38,6 @@ export default function SEC(){
         </div>
 
     </section>
-        </>
+        </div>
     )
 }
