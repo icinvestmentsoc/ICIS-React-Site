@@ -122,7 +122,7 @@ export default function Home () {
                     An introductory presentation to the Investment Society and our own QT Capital
                   </div>
                   <h3 class="card-title mb-3">
-                    12 Oct 2021 18: 00-20: 30
+                    12 Oct 2021 18:00-19:00
                   </h3>
                   <h3 class="card-title mb-3">
                     <strong> Huxley 308/311 </strong>
@@ -145,7 +145,7 @@ export default function Home () {
                     Demystifying Chinese Investments with ChineseAlpha
                   </div>
                   <h3 class="card-title mb-3">
-                    19 Oct 2021 18: 00-20: 30  </h3>
+                    19 Oct 2021 19:15-20:30  </h3>
                   <h3 class="card-title mb-3">
                     <strong>Huxley 308/311</strong>
                   </h3>

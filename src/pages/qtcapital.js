@@ -115,13 +115,11 @@ export default function QTCapital(){
         <p class="lead">All analysts are expected to attend the <strong> 1 hour pitching sessions </strong> (6pm Tuesday, Huxley 308).
         Along with general Investment Society members, you will be able to hear the pitches of
         other analysts and vote for the ones you think should be invested in the fund.</p>
+        <p class="lead">Applications for these opportunities have closed.</p>
         </div>
         </div>
 
-        <div class="pb-3">
-                <a href="https://forms.office.com/r/sMvRrkjuf5" class="btn btn-primary btn-sm fs-3"> 
-                <i class="bi bi-chevron-right"></i> Apply </a>
-         </div>
+        
         
 
         </div>

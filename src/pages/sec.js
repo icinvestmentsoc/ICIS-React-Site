@@ -20,16 +20,8 @@ export default function SEC(){
             in-person, from lectures to the written exam. Upon completion of the graded exam at the
             end of the course, you will be given a certificate that you can present to prospective
             employers on your CV. </p>
-          <p class="lead"> Applications are now open and will close on the 13<sup>th</sup> October. Lectures will begin on the 16th of
-            October at 10am, every week for 4 weeks. We have a first come, first-served registration system, so apply now in order not to
-            miss out on this opportunity! </p>
-          <p class="lead"> If you have any questions, feel free to contact us at
-            icu.investmentsociety@imperial.ac.uk. </p>
-          <p class="lead">Use the form below to sign up:</p>
-          <div class="pb-3">
-                <a href="https://forms.office.com/r/4UkWVazUX3" class="btn btn-primary btn-sm fs-3"> 
-                <i class="bi bi-chevron-right"></i> Sign up for the SEC </a>
-              </div>
+          <p class="lead">Applications for this program have now closed.</p>
+          
         </div>
         <div class="col-md mb-1 mt-sm-1">
         <img src="img/sec/SEC coloured.svg" class="mx-auto d-block" alt="" width="60%" />
