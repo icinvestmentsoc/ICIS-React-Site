@@ -14,6 +14,7 @@ import Partners from './pages/partners';
 import SEC from './pages/sec';
 import QTCapital from './pages/qtcapital';
 import './App.css';
+import Editorial from './pages/editorial';
 
 function App() {
   return (
@@ -24,17 +25,18 @@ function App() {
         <Route path="/qtcapital">
             <QTCapital/>
           </Route>
+         
         <Route path="/sec">
             <SEC/>
-          </Route>
-          <Route path="/impactinvesting">
-            <ImpactInvesting />
           </Route>
           <Route path="/team">
             <Team />
           </Route>
           <Route path="/partners">
             <Partners />
+          </Route>
+          <Route path="/editorial">
+            <Editorial />
           </Route>
           <Route path="/">
             <Home />

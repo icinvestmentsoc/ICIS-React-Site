@@ -18,9 +18,6 @@ export default function Nav() {
                 <Link to="/" class="nav-link ">Home</Link>
               </li>
               <li class="navbar-item">
-                <Link to="/impactinvesting" class="nav-link">IIC 2021</Link>
-              </li>
-              <li class="navbar-item">
                 <Link to="/team" class="nav-link">Team</Link>
               </li>
               <li class="navbar-item">
@@ -31,6 +28,9 @@ export default function Nav() {
               </li>
               <li class="navbar-item ">
               <Link to="/qtcapital" class="nav-link" >QT Capital  </Link>
+              </li>
+              <li class="navbar-item">
+              <Link to="/editorial" class="nav-link" >Editorial  </Link>
               </li>
             </ul>
           </div>

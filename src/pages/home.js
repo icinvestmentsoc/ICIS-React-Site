@@ -73,22 +73,7 @@ export default function Home () {
                 </div>
               </div>
             </div>
-            <div class="col-md d-flex align-items-stretch">
-              <div class="card bg-secondary text-light">
-                <div class="card-body text-center">
-                  <div class="h1 mb-3">
-                    <i class="bi bi-book-half"></i>
-                  </div>
-                  <h3 class="card-title mb-3">
-                    Impact Investing Challenge 2021
-                  </h3>
-                  <p class="card-text">
-                    Pitch your way to £550 worth of prizes and a final round internship interview at Temasek.
-                  </p>
-                  <a href="/impactinvesting" class="btn btn-primary stretched-link">Read More</a>
-                </div>
-              </div>
-            </div>
+            
             <div class="col-md d-flex align-items-stretch">
               <div class="card bg-secondary text-light">
                 <div class="card-body text-center">
@@ -96,14 +81,14 @@ export default function Home () {
                     <i class="bi bi-play-fill"></i>
                   </div>
                   <h3 class="card-title mb-3">
-                    QT Capital Research Analysts Applications
+                    Investment Society Editorial Applications
                   </h3>
                   <div class="mb-4">
                     <p class="card-text">
-                      Apply to become an analyst in our investment fund.
+                      Apply to become a writer for the Investment Society's Felix column.
                     </p>
                   </div>
-                  <a href="/qtcapital" class="btn btn-primary stretched-link">Read More</a>
+                  <a href="/editorial" class="btn btn-primary stretched-link">Read More</a>
                 </div>
               </div>
             </div>
@@ -171,18 +156,20 @@ export default function Home () {
                     27 Oct 2021 16:00 onwards
                   </h3>
                   <h3 class="card-title mb-3">
-                    <strong>LOCATION TBC</strong>
+                    <strong>Online</strong>
                   </h3>
-                  <div class="mb-4">
+                  <div class="mb-3">
                     <p class="card-text">
                       <p>Join Amplify on the 27<sup>th</sup> October to experience the same trading simulations used
                         by the world leading banks to enhance your market awareness. Gain hands on experience of both the
                         sell-side and buy-side giving you exposure to life as a market maker as well as an asset manager.</p>
+                        <p> Click on the Amplify logo to be redirected to the application form. </p>
                     </p>
                     <p class="card-text mb-5">
                       <p> <strong>Contact George Spencer (gws19@ic.ac.uk) for more information.</strong> </p>
                     </p>
-                    <img src="img/partners/amplify-logo.png" width="50%"></img>
+                    <a href="https://amplifyme.com/course/finance-accelerator" target="_blank">
+                    <img src="img/partners/amplify-logo.png" width="50%"></img> </a>
                   </div>
 
                 </div>
