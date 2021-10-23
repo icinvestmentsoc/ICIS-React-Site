@@ -28,6 +28,9 @@ export default function Editorial(){
         <a href="https://forms.office.com/r/AKvvqdtmGS" target="_blank" class="btn btn-primary btn-lg active" role="button" aria-pressed="false" mx-2>
               <i class="bi bi-chevron-right"></i> Apply Here</a>
         </div>
+        <div class="col-md p-md-2 pt-1">
+        <img src="img/writers grp.svg" class="mx-auto d-block" alt="" width="45%" />
+        </div>
         
         </div>
         </div>
