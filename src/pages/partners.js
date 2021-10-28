@@ -1,5 +1,4 @@
 import React from 'react'
-import ReactDOM from 'react-dom'
 export default function Partners() {
   return (
     <div>
@@ -10,7 +9,7 @@ export default function Partners() {
             backgroundImage: `linear-gradient(
                 to right,
                 #462523 0,
-                       #cb9b51 22%, 
+                #cb9b51 22%, 
                 #f6e27a 45%,
                 #f6f2c0 50%,
                 #f6e27a 55%,
