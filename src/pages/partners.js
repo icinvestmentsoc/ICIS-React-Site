@@ -100,6 +100,79 @@ export default function Partners() {
               </div>
             </div>
           </div>
+          <div class="row align-items-center justify-content-between">
+            
+            <div class="col-md mb-2 mb-md-0">
+              <p class="lead">
+            <strong> Richard Edge </strong>  is a globally recognised leadership expert with a specialism for assisting
+            managers that must perform within unique cultural environments.
+              </p>
+              <p class="lead">
+              Before becoming an established leadership, performance and transformation coach, he had a
+              successful career leading HR and Organisational Development initiatives across the UK and
+              Qatar. He now leads a leadership coaching business with clients across 14 countries with an
+              increasing presence in Melbourne and Sydney.</p>
+              <p class="lead">Richard’s uniqueness is that he has led
+                organisations both from an employee and
+                consulting perspective across multiple sectors
+                and countries and supports this professional
+                experience with underpinned knowledge gained
+                from his academic studies. Richard has attained
+                LLB (Hons), FCIPD, MSC, MBA, Prince2, MSP
+                qualifications, and was even appointed the
+                youngest Fellow in the history of the CIPD as
+                well as the youngest Director of HR in the UK’s
+                public sector back in 2011. Further to this
+                academic success, his new Professional
+                Coaching and Leadership Company was awarded
+                silver at the “Best New Business – Professional
+                and Financial Services” at the prestigious 2021
+                UK Business Awards.</p>
+              <p class="lead"> Having worked on behalf of global business leaders, policy leaders, entrepreneurs and
+              humanitarians, he came in to his own during his years spent in the Middle East and undertook
+              various unique roles including facilitating networking events with ministerial representatives
+              from more than 20 countries. This experience gave him access to work with individuals at the
+              highest level of business and responsibility and allows him to tap into individual’s psychology
+              and facilitate them achieving their ambitions using both professional and academic experience
+              but also bringing the counsel to life with real life tangible experience that both engages,
+              entertains and motivates individuals to maximise their own potential.</p>
+              <p class="lead">In addition, during his career he was responsible for leading a team of international consultants
+              that operated a unique boutique and integrated model. This unique way of working enabled
+              this team to provide expertise across the Middle East’s very varied and fast growing sectors to
+              ensure implementation of best practice initiatives and leadership development of high
+              potential local talent. With a specific focus on individual and company outcomes, Richard
+              engages with individuals as an executive coach for those who are looking to not just maximise
+              their performance but do so in a fulfilling and enjoyable way which ensures long term
+              commitment for both them and the organisation that they are operating in.</p>
+              <p class="lead">Some of the clients that Richard has successfully worked with in the last 3 years
+              include:</p>
+              <p class="lead">-Member of the Queen's Privy Council in the UK</p>
+              <p class="lead">-Chief of Staff to the richest billionaire in Europe under 40</p>
+              <p class="lead">-General Counsel of one of the largest banks in the World</p>
+              <p class="lead">-Strategic Advisor to the CEO of one of the top 3 global pharmaceutical companies</p>
+              <p class="lead">-Global Business Development Executive for the largest Health Tech company in the World</p>
+              <p class="lead">-The founders of the fastest growing healthy dog food company on the planet!</p>
+              <p class="lead">-Private Wealth Management Specialists in Sydney</p>
+              <p class="lead">-Digital Tech programme managers and Learning and Development professionals based
+                in Melbourne C-Suite people and mangers located in Singapore, Dubai, Saudi Arabia,
+                China, UK, Australia, New Zealand, France, Spain, India, Canada and the United States</p>
+                <p class="lead">-C-Suite people and managers located in Singapore, Dubai, Saudi Arabia, China, UK,
+               Australia, New Zealand, France, Spain, India, Canada and the United States</p>
+            </div>
+            
+            <div class="col-md mb-3 mb-md-0">
+              <div clas="col-md-6 offset-md-4 my-auto text-center">
+                <img class="mx-auto d-block" alt="Responsive image" src="img/bronze sponsors/richard_edge.jpg" width="50%" />
+              </div>
+            </div>
+          </div>
+
+          <div class="row align-items-center justify-content-between">
+            <div class="col-md mb-2 mb-md-0">
+              <p class="lead"> <strong>Can we help you next? For a no obligation, free consultation, contact Richard directly via
+            email at richard@careerships.com or WhatsApp at <p>+44 7498 210461.</p>   </strong></p>
+              </div>
+          </div>
 
         </div>
       </section>
