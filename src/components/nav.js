@@ -23,14 +23,8 @@ export default function Nav() {
               <li class="navbar-item">
                 <Link to="/partners" class="nav-link">Partners</Link>
               </li>
-              <li class="navbar-item">
-                <Link to="/SEC" class="nav-link">SEC</Link>
-              </li>
               <li class="navbar-item ">
               <Link to="/qtcapital" class="nav-link" >QT Capital  </Link>
-              </li>
-              <li class="navbar-item">
-              <Link to="/editorial" class="nav-link" >Editorial  </Link>
               </li>
             </ul>
           </div>
