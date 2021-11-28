@@ -78,20 +78,128 @@ export default function Home() {
                     <i class="bi bi-play-fill"></i>
                   </div>
                   <h3 class="card-title mb-3">
-                    Investment Society Editorial Applications
+                    Investment Society Events
                   </h3>
                   <div class="mb-4">
                     <p class="card-text">
-                      Apply to become a writer for the Investment Society's Felix column.
+                      Subscribe to the mailing list to receive up-to-date information on our events.
                     </p>
                   </div>
-                  <a href="/editorial" class="btn btn-primary stretched-link">Read More</a>
+                  
                 </div>
               </div>
             </div>
           </div>
         </div>
       </section>
+    
+       {/*events cards code.*/}
+      <section class="pt-4 p-md-5 bg-dark text-light">
+        <div class="container">
+          <div class="row text-center g-md-4">
+            {/*g is for gutters, not gap. A google image will suffice to explain what the gutter is.*/}
+            <h2>Investment Society Events</h2>
+            <div class="col-md d-flex align-items-stretch">
+              <div class="card bg-light text-dark">
+                <div class="card-body text-center">
+                  <div class="h2 mb-3">
+                   Careerships Interview Session
+                  </div>
+                  <h3 class="card-title mb-3">
+                    29 Nov 2021 18:30-19:30
+                  </h3>
+                  <h3 class="card-title mb-3">
+                    <strong> Huxley 308/311 </strong>
+                  </h3>
+                  <p class="card-text">
+                    <p> This session will focus on interviews.   
+                    Whilst many just prepare for the QandA stage we will explore the 3 stages of the interview in equal measure whilst also considering how to score “bonus” points that will mean you are memorable, leave a lasting impression and ultimately get the opportunity you are seeking. </p>
+                    <p> Come armed with your biggest fear that you have about interviews. If you have no fear then tell me and I will show you how tough an interview can be if you wish! </p>
+                  </p>
+                  <img class="mx-auto d-block" alt="Responsive image" src="img/bronze sponsors/logo_careerships.svg" width="80%" />
+              
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md d-flex align-items-stretch">
+              <div class="card bg-secondary text-light">
+                <div class="card-body text-center">
+                  <div class="h2 mb-5">
+                   Aragon Company Event
+                  </div>
+                  <h3 class="card-title mb-3">
+                   29 Nov 2021 18:00-19:00  </h3>
+                  <h3 class="card-title mb-3">
+                    <strong>Huxley 308/311</strong>
+                  </h3>
+                  <p class="card-text mb-4">
+                    <p>Aragon runs an associate internship program on a rolling basis within several of their teams (Long/Short Equity Research, Risk & Quant), and the firm believes members of Imperial College Investment Society would be a great fit for the program. 
+                  During this session with their team, you will be introduced to Aragon and their internship program. 
+                </p>
+                  </p>
+                  <img class="mx-auto d-block" alt="Responsive image" src="img/bronze sponsors/aragon-black.svg" width="50%" />
+                </div>
+              </div>
+            </div>
+            <div class="col-md d-flex align-items-stretch">
+              <div class="card bg-light text-dark">
+                <div class="card-body text-center">
+                  <div class="h2 mb-3">
+                  Cryptocurrency Lecture 2 (Sponsored by Block Dojo)
+                  </div>
+                  <h3 class="card-title mb-3">
+                    1 Dec 18:00
+                  </h3>
+                  <h3 class="card-title mb-3">
+                    <strong>Huxley 308/Online</strong>
+                  </h3>
+                  <div class="mb-3">
+                    <p class="card-text">
+                      <p>Zuckerberg made the decision to rename his Facebook kingdom to Meta, does that trigger an alarm? Yes, Metaverse is coming, but did you know Metaverse was a concept derived from cryptocurrency? What is it? Why is it so popular? Is it a bubble in the making?
+              </p>
+                        <p>A profile picture sold for 11 million dollars!? NFT’s hype is all over the place, what is NFT? How do we value them? Are they becoming part of our everyday life? </p>
+                        <p> Lastly, as you all might have known, commercial banking is slowly losing some of its traction to Defi, an industry that has been on the rise ever since 2019. You could deposit into Barclays for 0.15% APY or into anchor protocol for 19.45% APY. Bank of Defi? Your call! </p>
+                    </p>
+                    <p class="card-text mb-5">
+                      <p> <strong>If you're interested in learning about some of these topics and the wider crypto landscape, then be sure not to miss this event!</strong> </p>
+                    </p>
+                    <img class="mx-auto d-block"  src="img/blockdojo.png" width="50%" />
+          
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            <div class="col-md d-flex align-items-stretch">
+              <div class="card bg-secondary text-light">
+                <div class="card-body text-center">
+                  <div class="h2 mb-5">
+                   Stockhub Startup Pitch Night  
+                  </div>
+                  <h3 class="card-title mb-3">
+                  2 Dec 18:00  </h3>
+                  <h3 class="card-title mb-3">
+                    <strong>City and Guilds LT 200</strong>
+                  </h3>
+                  <p class="card-text mb-4">
+                    <p>AInvesting in early-stage companies is one of the best ways to supercharge the growth of your money. For those that are looking to invest, the Stockhub event helps you to invest faster, by providing you with access to suitable companies that you can invest in. 
+                </p>
+                <p> <strong>Who is the event targeted towards? </strong> </p>
+                <p>Anyone that is interested in investing in early-stage companies. </p>
+                <p> Event agenda: </p>
+                 <p> 18:00 - 18:30: Networking </p>
+                 <p> 18:30 - 20:00: Pitching </p>
+                 <p> 20:00 - 21:30: Networking </p>
+                  </p>
+                  <img class="mx-auto d-block" alt="Responsive image" src="img/stockhub.png" width="100%" />
+                </div>
+              </div>
+            </div>
+        </div>
+      </div>
+      </section>
+
       <section id="learn" class="py-5 p-lg-5">
         <div class="container">
           <div class="row align-items-center justify-content-between">
@@ -120,8 +228,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-
       <section class="pt-5 p-lg-5" id="questions">
         <div class="container">
           <h2 class="text-center mb-4">Frequently Asked Questions</h2>
