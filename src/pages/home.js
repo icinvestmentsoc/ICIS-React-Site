@@ -103,96 +103,62 @@ export default function Home() {
               <div class="card bg-light text-dark">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                   Careerships Interview Session
+                  Weekly Tuesday Asset Pitch Sessions
                   </div>
+                
                   <h3 class="card-title mb-3">
-                    29 Nov 2021 18:30-19:30
-                  </h3>
-                  <h3 class="card-title mb-3">
-                    <strong> Huxley 308/311 </strong>
-                  </h3>
-                  <p class="card-text">
-                    <p> This session will focus on interviews.   
-                    Whilst many just prepare for the QandA stage we will explore the 3 stages of the interview in equal measure whilst also considering how to score “bonus” points that will mean you are memorable, leave a lasting impression and ultimately get the opportunity you are seeking. </p>
-                    <p> Come armed with your biggest fear that you have about interviews. If you have no fear then tell me and I will show you how tough an interview can be if you wish! </p>
-                  </p>
-                  <img class="mx-auto d-block" alt="Responsive image" src="img/bronze sponsors/logo_careerships.svg" width="80%" />
-              
-                </div>
-              </div>
-            </div>
-
-            <div class="col-md d-flex align-items-stretch">
-              <div class="card bg-secondary text-light">
-                <div class="card-body text-center">
-                  <div class="h2 mb-5">
-                   Aragon Company Event
-                  </div>
-                  <h3 class="card-title mb-3">
-                   29 Nov 2021 18:00-19:00  </h3>
-                  <h3 class="card-title mb-3">
-                    <strong>Huxley 308/311</strong>
-                  </h3>
-                  <p class="card-text mb-4">
-                    <p>Aragon runs an associate internship program on a rolling basis within several of their teams (Long/Short Equity Research, Risk & Quant), and the firm believes members of Imperial College Investment Society would be a great fit for the program. 
-                  During this session with their team, you will be introduced to Aragon and their internship program. 
-                </p>
-                  </p>
-                  <img class="mx-auto d-block" alt="Responsive image" src="img/bronze sponsors/aragon-black.svg" width="50%" />
-                </div>
-              </div>
-            </div>
-            <div class="col-md d-flex align-items-stretch">
-              <div class="card bg-light text-dark">
-                <div class="card-body text-center">
-                  <div class="h2 mb-3">
-                  Cryptocurrency Lecture 2 (Sponsored by Block Dojo)
-                  </div>
-                  <h3 class="card-title mb-3">
-                    1 Dec 18:00
+                    <strong> Tuesday 18:00-20:00 </strong>
                   </h3>
                   <h3 class="card-title mb-3">
                     <strong>Huxley 308/Online</strong>
                   </h3>
-                  <div class="mb-3">
-                    <p class="card-text">
-                      <p>Zuckerberg made the decision to rename his Facebook kingdom to Meta, does that trigger an alarm? Yes, Metaverse is coming, but did you know Metaverse was a concept derived from cryptocurrency? What is it? Why is it so popular? Is it a bubble in the making?
-              </p>
-                        <p>A profile picture sold for 11 million dollars!? NFT’s hype is all over the place, what is NFT? How do we value them? Are they becoming part of our everyday life? </p>
-                        <p> Lastly, as you all might have known, commercial banking is slowly losing some of its traction to Defi, an industry that has been on the rise ever since 2019. You could deposit into Barclays for 0.15% APY or into anchor protocol for 19.45% APY. Bank of Defi? Your call! </p>
-                    </p>
-                    <p class="card-text mb-5">
-                      <p> <strong>If you're interested in learning about some of these topics and the wider crypto landscape, then be sure not to miss this event!</strong> </p>
-                    </p>
-                    <img class="mx-auto d-block"  src="img/blockdojo.png" width="50%" />
-          
-                  </div>
-
+                  <p class="card-text"> 8 Feb: Crypto Debate   </p>
+                  <p class="card-text">15 Feb: Sell-side Panel </p>
+                  <p class="card-text">1 Mar: Buy-side Panel </p>
+                  <p class="card-text">15 Mar: Celebrating Diversity in Finance </p>
                 </div>
               </div>
             </div>
+
             <div class="col-md d-flex align-items-stretch">
               <div class="card bg-secondary text-light">
                 <div class="card-body text-center">
-                  <div class="h2 mb-5">
-                   Stockhub Startup Pitch Night  
+                  <div class="h2 mb-3">
+                    DCF and Real Estate Workshops
                   </div>
                   <h3 class="card-title mb-3">
-                  2 Dec 18:00  </h3>
+                   Thursday 18:00-20:00  </h3>
                   <h3 class="card-title mb-3">
-                    <strong>City and Guilds LT 200</strong>
+                    <strong>Huxley 308/Online</strong>
                   </h3>
                   <p class="card-text mb-4">
-                    <p>AInvesting in early-stage companies is one of the best ways to supercharge the growth of your money. For those that are looking to invest, the Stockhub event helps you to invest faster, by providing you with access to suitable companies that you can invest in. 
-                </p>
-                <p> <strong>Who is the event targeted towards? </strong> </p>
-                <p>Anyone that is interested in investing in early-stage companies. </p>
-                <p> Event agenda: </p>
-                 <p> 18:00 - 18:30: Networking </p>
-                 <p> 18:30 - 20:00: Pitching </p>
-                 <p> 20:00 - 21:30: Networking </p>
+                    <p class="card-text"> 3 Feb: Real Estate Workshop 1   </p>
+                    <p class="card-text">10 Feb: Real Estate Workshop 2 </p>
+                    <p class="card-text">15 Feb: DCF Workshop 1 </p>
+                    <p class="card-text">22 Feb: DCF Workshop 2</p>
                   </p>
-                  <img class="mx-auto d-block" alt="Responsive image" src="img/stockhub.png" width="100%" />
+                
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md d-flex align-items-stretch">
+              <div class="card bg-light text-dark">
+                <div class="card-body text-center">
+                  <div class="h2 mb-3">
+                   Systematic Trading Workshops
+                  </div>
+                  <h3 class="card-title mb-3">
+                  Saturday 10:00-12:00  </h3>
+                  <h3 class="card-title mb-3">
+                    <strong>Huxley 308/Online</strong>
+                  </h3>
+                  <p class="card-text mb-4">
+                    <p class="card-text"> 5 Mar: Systematic Trading Workshop 1   </p>
+                    <p class="card-text">12 Mar: Systematic Trading Workshop 2 </p>
+                    <p class="card-text">19 Mar: Systematic Trading Workshop 3 </p>
+                </p>
+                
                 </div>
               </div>
             </div>
