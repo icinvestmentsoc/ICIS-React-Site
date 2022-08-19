@@ -14,8 +14,8 @@ export default function Team() {
         <div class="col-md-6 col-lg-3">
           <div class="card bg-light">
             <div class="card-body text-center">
-              <img src="img/frank.jpeg" class="rounded-circle mb-3 profile-pic" alt="" />
-              <h3 class="card-title mb-3">Frank Shang</h3>
+              <img src="img/ryan.jpeg" class="rounded-circle mb-3 profile-pic" alt="" />
+              <h3 class="card-title mb-3">Ryan Ling</h3>
               <h6 class="card-subtitle">President</h6>
               <hr />
             </div>
