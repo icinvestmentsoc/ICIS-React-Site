@@ -120,7 +120,6 @@ export default function Team() {
             </div>
           </div>
         </div>
-      </div>
       {/* Item 11 */}
       <div class="col-md-6 col-lg-3">
           <div class="card bg-light">
