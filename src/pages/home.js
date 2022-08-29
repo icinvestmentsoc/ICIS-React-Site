@@ -103,19 +103,17 @@ export default function Home() {
               <div class="card bg-light text-dark">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                  Weekly Tuesday Asset Pitch Sessions
+                  Technical Interview Training
                   </div>
                 
                   <h3 class="card-title mb-3">
-                    <strong> Tuesday 18:00-20:00 </strong>
+                    <strong> Saturday 10 September 14:00-15:00 </strong>
                   </h3>
                   <h3 class="card-title mb-3">
-                    <strong>Huxley 308/Online</strong>
+                    <strong>Online</strong>
                   </h3>
-                  <p class="card-text"> 8 Feb: Crypto Debate   </p>
-                  <p class="card-text">15 Feb: Sell-side Panel </p>
-                  <p class="card-text">1 Mar: Buy-side Panel </p>
-                  <p class="card-text">15 Mar: Celebrating Diversity in Finance </p>
+                  <p class="card-text"> Speaker: Justin Wong   </p>
+
                 </div>
               </div>
             </div>
@@ -124,18 +122,18 @@ export default function Home() {
               <div class="card bg-secondary text-light">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                    DCF and Real Estate Workshops
+                    Welcome Fair
                   </div>
                   <h3 class="card-title mb-3">
-                   Thursday 18:00-20:00  </h3>
+                   Tuesday 4 October 11:00-16:00 </h3>
                   <h3 class="card-title mb-3">
-                    <strong>Huxley 308/Online</strong>
+                    <strong>South Kensington Campus</strong>
                   </h3>
                   <p class="card-text mb-4">
-                    <p class="card-text"> 3 Feb: Real Estate Workshop 1   </p>
+                    {/*<p class="card-text"> 3 Feb: Real Estate Workshop 1   </p>
                     <p class="card-text">10 Feb: Real Estate Workshop 2 </p>
                     <p class="card-text">15 Feb: DCF Workshop 1 </p>
-                    <p class="card-text">22 Feb: DCF Workshop 2</p>
+                    <p class="card-text">22 Feb: DCF Workshop 2</p> */}
                   </p>
                 
                 </div>
@@ -146,17 +144,17 @@ export default function Home() {
               <div class="card bg-light text-dark">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                   Systematic Trading Workshops
+                   Investment Society Introduction Event
                   </div>
                   <h3 class="card-title mb-3">
-                  Saturday 10:00-12:00  </h3>
+                  Thursday 6 October time TBD  </h3>
                   <h3 class="card-title mb-3">
-                    <strong>Huxley 308/Online</strong>
+                    <strong>location: TBD</strong>
                   </h3>
                   <p class="card-text mb-4">
-                    <p class="card-text"> 5 Mar: Systematic Trading Workshop 1   </p>
+                    {/*<p class="card-text"> 5 Mar: Systematic Trading Workshop 1   </p>
                     <p class="card-text">12 Mar: Systematic Trading Workshop 2 </p>
-                    <p class="card-text">19 Mar: Systematic Trading Workshop 3 </p>
+                  <p class="card-text">19 Mar: Systematic Trading Workshop 3 </p> */}
                 </p>
                 
                 </div>
