@@ -16,7 +16,7 @@ export default function Team() {
             <div class="card-body text-center">
               <img src="img/ryan.jpg" class="rounded-circle mb-3 profile-pic" alt="" />
               <h3 class="card-title mb-3">Ryan Ling</h3>
-              <h6 class="card-subtitle">President</h6>
+              <h6 class="card-subtitle">Co - President</h6>
               <hr />
             </div>
           </div>
@@ -25,9 +25,9 @@ export default function Team() {
         <div class="col-md-6 col-lg-3">
           <div class="card bg-light">
             <div class="card-body text-center">
-              <img src="img/alex.jpg" class="rounded-circle mb-3 profile-pic" alt="" />
-              <h3 class="card-title mb-3">Alex Chen Hu</h3>
-              <h6 class="card-subtitle">co - Treasurer</h6>
+              <img src="img/george.jpg" class="rounded-circle mb-3 profile-pic" alt="" />
+              <h3 class="card-title mb-3">George Spencer</h3>
+              <h6 class="card-subtitle">Co - President</h6>
               <hr />
             </div>
           </div>
@@ -36,9 +36,9 @@ export default function Team() {
         <div class="col-md-6 col-lg-3">
           <div class="card bg-light">
             <div class="card-body text-center">
-              <img src="img/avi.jpg" class="rounded-circle mb-3 profile-pic" alt="" />
-              <h3 class="card-title mb-3">Avi Aggarwal</h3>
-              <h6 class="card-subtitle">co - Treasurer</h6>
+              <img src="img/alex.jpg" class="rounded-circle mb-3 profile-pic" alt="" />
+              <h3 class="card-title mb-3">Alex Chen Hu</h3>
+              <h6 class="card-subtitle">Co - Treasurer</h6>
               <hr />
             </div>
           </div>
@@ -47,9 +47,9 @@ export default function Team() {
         <div class="col-md-6 col-lg-3">
           <div class="card bg-light">
             <div class="card-body text-center">
-              <img src="img/george.jpeg" class="rounded-circle mb-3 profile-pic" alt="" />
-              <h3 class="card-title mb-3">Manuel Louro Coelho</h3>
-              <h6 class="card-subtitle">Head of Sell-Side Corporate Relations</h6>
+              <img src="img/avi.jpg" class="rounded-circle mb-3 profile-pic" alt="" />
+              <h3 class="card-title mb-3">Avi Aggarwal</h3>
+              <h6 class="card-subtitle">Co - Treasurer</h6>
               <hr />
             </div>
           </div>
@@ -58,14 +58,25 @@ export default function Team() {
         <div class="col-md-6 col-lg-3">
           <div class="card bg-light">
             <div class="card-body text-center">
-              <img src="img/ryan.jpeg" class="rounded-circle mb-3 profile-pic" alt="" />
+              <img src="img/manuel.jpg" class="rounded-circle mb-3 profile-pic" alt="" />
+              <h3 class="card-title mb-3">Manuel Louro Coelho</h3>
+              <h6 class="card-subtitle">Head of Sell-Side Corporate Relations</h6>
+              <hr />
+            </div>
+          </div>
+        </div>
+        {/* Item 6 */}
+        <div class="col-md-6 col-lg-3">
+          <div class="card bg-light">
+            <div class="card-body text-center">
+              <img src="img/mihnea.jpg" class="rounded-circle mb-3 profile-pic" alt="" />
               <h3 class="card-title mb-3">Mihnea Bucur</h3>
               <h6 class="card-subtitle">Head of Buy-Side Corporate Relations</h6>
               <hr />
             </div>
           </div>
         </div>
-        {/* Item 6 */}
+        {/* Item 7 */}
         <div class="col-md-6 col-lg-3">
           <div class="card bg-light">
             <div class="card-body text-center">
@@ -76,7 +87,7 @@ export default function Team() {
             </div>
           </div>
         </div>
-        {/* Item 7 */}
+        {/* Item 8 */}
         <div class="col-md-6 col-lg-3">
           <div class="card bg-light">
             <div class="card-body text-center">
@@ -87,7 +98,7 @@ export default function Team() {
             </div>
           </div>
         </div>
-        {/* Item 8 */}
+        {/* Item 9 */}
         <div class="col-md-6 col-lg-3">
           <div class="card bg-light">
             <div class="card-body text-center">
@@ -98,7 +109,7 @@ export default function Team() {
             </div>
           </div>
         </div>
-        {/* Item 9 */}
+        {/* Item 10 */}
         <div class="col-md-6 col-lg-3">
           <div class="card bg-light">
             <div class="card-body text-center">
@@ -109,7 +120,7 @@ export default function Team() {
             </div>
           </div>
         </div>
-        {/* Item 10 */}
+        {/* Item 11 */}
         <div class="col-md-6 col-lg-3">
           <div class="card bg-light">
             <div class="card-body text-center">
@@ -120,13 +131,24 @@ export default function Team() {
             </div>
           </div>
         </div>
-      {/* Item 11 */}
+        {/* Item 12 */}
+        <div class="col-md-6 col-lg-3">
+          <div class="card bg-light">
+            <div class="card-body text-center">
+              <img src="img/oscar.jpg" class="rounded-circle mb-3 profile-pic" alt="" />
+              <h3 class="card-title mb-3">Oscar Wooding</h3>
+              <h6 class="card-subtitle">Co - Head of Portfolio Management</h6>
+              <hr />
+            </div>
+          </div>
+        </div>
+      {/* Item 13 */}
       <div class="col-md-6 col-lg-3">
           <div class="card bg-light">
             <div class="card-body text-center">
               <img src="img/brendan.jpg" class="rounded-circle mb-3 profile-pic" alt="" />
               <h3 class="card-title mb-3">Brendan Patalong</h3>
-              <h6 class="card-subtitle">Head of Portfolio Management</h6>
+              <h6 class="card-subtitle">Co - Head of Portfolio Management</h6>
               <hr />
             </div>
           </div>
