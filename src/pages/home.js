@@ -11,7 +11,7 @@ export default function Home() {
               <h1>Welcome to <span class="text-info">Imperial College Investment Society!</span></h1>
               <p class="lead my-4">
                 A society with the purpose of increasing our members'​ exposure to the investment industry.
-                <br />We are Imperial College's fastest growing society, with more than 900 members in our community.
+                <br />We are Imperial College's fastest growing society, with more than 1300 members in our community.
               </p>
               {/*<button type="button" class="btn btn-primary btn-lg"><i class="bi bi-chevron-right"></i> Free membership</button>*/}
               <a href="https://www.imperialcollegeunion.org/activities/a-to-z/investment" target="_blank" class="btn btn-primary btn-lg active" role="button" aria-pressed="false" mx-2>
