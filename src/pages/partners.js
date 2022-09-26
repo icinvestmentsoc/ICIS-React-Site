@@ -18,7 +18,7 @@ export default function Partners() {
                 )`,
             color: "transparent",
             WebkitBackgroundClip: "text", backgroundClip: "text"
-          }}> GOLD SPONSORS</span> </h2>
+          }}> SILVER SPONSORS</span> </h2>
           <div class="row align-items-center justify-content-between">
             <div class="col-md mb-3 mb-md-0">
               <h3>Money Maze</h3>
