@@ -21,21 +21,24 @@ export default function Partners() {
           }}> GOLD SPONSORS</span> </h2>
           <div class="row align-items-center justify-content-between">
             <div class="col-md mb-3 mb-md-0">
-              <h3>Temasek</h3>
-              <p class="lead">Incorporated in 1974, Temasek is an investment company headquartered in Singapore. It is supported
-                by 13 offices globally across 9 countries including the UK (London). </p>
-              <p class="lead">As an active investor and engaged owner, Temasek aims to deliver sustainable value over the long
-                term through its investment themes of Transforming Economies; Growing Middle Income
-                Populations; Deepening Comparative Advantages; and Emerging Champions. As at 31 March 2021, it
-                owns a portfolio of <span>&#163;</span>206 billion. </p>
-              <p class="lead">For more information about Temasek please click on the button below.</p>
+              <h3>Money Maze</h3>
+              <p class="lead">Established in 2020 by two finance industry veterans, the Money Maze Podcast features some of 
+              the biggest names in investment management, finance & business.  </p>
+              <p class="lead">Through direct, entertaining and insightful interviews with masters of the real life money maze, 
+              it aims to help listeners learn about the different approaches to allocating capital and better navigate the pitfalls 
+              that line the path to prosperity. </p>
+              <p class="lead">Whether you're a current or aspiring investor, entrepreneur, professional or student exploring career options, 
+              we hope you gain some helpful insights and enjoy the show. </p>
+              <p class="lead">To listen, search ‘Money Maze Podcast’ on any major podcast app or YouTube. 
+              You can also find out more via www.moneymazepodcast.com.  </p>
               <div>
-                <a href="https://www.temasek.com.sg/en/index" class="btn btn-primary btn-sm"><i class="bi bi-chevron-right"></i> LEARN MORE</a>
+                <a href="https://open.spotify.com/show/0uT0iw8BkDIvFH12Z3GJKR" class="btn btn-primary btn-sm"><i class="bi bi-chevron-right"></i> Spotify</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://podcasts.apple.com/gb/podcast/the-money-maze-podcast/id1504477769" class="btn btn-primary btn-sm"><i class="bi bi-chevron-right"></i> Apple Podcasts</a>
               </div>
             </div>
             <div class="col-md mb-3 mb-md-0">
               <div clas="col-md-6 offset-md-4 my-auto text-center">
-                <img class="mx-auto d-block" alt="Responsive image" src="img/partners/Temasek_logo.png" width="50%" />
+                <img class="mx-auto d-block" alt="Responsive image" src="img/partners/MoneyMaze.png" width="50%" />
               </div>
             </div>
           </div>
@@ -43,7 +46,7 @@ export default function Partners() {
       </section>
 
 
-      {/* bronze sponsors */}
+      {/* other sponsors */}
       <section id="learn" class="pt-3 px-3 pb-2 bg-light text-dark">
         <div class="container">
         <h2 style={{ textAlign: "center" }}> <span style={{
@@ -59,10 +62,26 @@ export default function Partners() {
                 )`,
             color: "transparent",
             WebkitBackgroundClip: "text", backgroundClip: "text"
-          }}>BRONZE SPONSORS</span> </h2>
+          }}>OTHER SPONSORS</span> </h2>
           <div class="row align-items-center justify-content-between">
             <div class="col-md mb-3 mb-md-0">
-              <h3>Aragon</h3>
+            <h3>Temasek</h3>
+              <p class="lead">Incorporated in 1974, Temasek is an investment company headquartered in Singapore. It is supported
+                by 13 offices globally across 9 countries including the UK (London). </p>
+              <p class="lead">As an active investor and engaged owner, Temasek aims to deliver sustainable value over the long
+                term through its investment themes of Transforming Economies; Growing Middle Income
+                Populations; Deepening Comparative Advantages; and Emerging Champions. As at 31 March 2021, it
+                owns a portfolio of <span>&#163;</span>206 billion. </p>
+              <p class="lead">For more information about Temasek please click on the button below.</p>
+              <div>
+                <a href="https://www.temasek.com.sg/en/index" class="btn btn-primary btn-sm"><i class="bi bi-chevron-right"></i> LEARN MORE</a>
+              </div>
+            </div>
+            <div class="col-md mb-3 mb-md-0">
+              <div clas="col-md-6 offset-md-4 my-auto text-center">
+                <img class="mx-auto d-block" alt="Responsive image" src="img/partners/Temasek_logo_dark.png" width="50%" />
+              </div>
+              {/*<h3>Aragon</h3>
               <p class="lead">Aragon Global Management is a long/short hedge fund active in the global equities markets, with a
                 focus on the Tech, Consumer and Financials sectors.Founded in 2001 by Anne Dias, Aragon was
                 started with initial capital from Julian Robertson of the Tiger Fund and became one of the largest
@@ -170,7 +189,7 @@ export default function Partners() {
           <div class="row align-items-center justify-content-between">
             <div class="col-md mb-2 mb-md-0">
               <p class="lead"> <strong>Can we help you next? For a no obligation, free consultation, contact Richard directly via
-            email at richard@careerships.com or WhatsApp at <p>+44 7498 210461.</p>   </strong></p>
+        email at richard@careerships.com or WhatsApp at <p>+44 7498 210461.</p>   </strong></p>*/}
               </div>
           </div>
 

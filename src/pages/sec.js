@@ -13,13 +13,12 @@ export default function SEC(){
             syllabus and teaching style to boost your knowledge and skills for a career in
             Investment and Finance. </p>
           <p class="lead"> We will be delivering the technicals and fundamentals you need to navigate your way
-            through the world of finance, with topics ranging from Sales and Trading to Private
-            Equity and Quantitative Analysis.</p>
-          <p class="lead"> Unlike many academic courses at Imperial this year, we’re aiming to deliver it all
-            in-person, from lectures to the written exam. Upon completion of the graded exam at the
+            through the world of finance, with topics including key players, equities, derivatives, fixed income 
+            and more.</p>
+          <p class="lead"> This year's SEC is a 7-part lecture series. Upon completion of the graded exam at the
             end of the course, you will be given a certificate that you can present to prospective
             employers on your CV. </p>
-          <p class="lead">Applications for this program have now closed.</p>
+          <p class="lead">Registrations open on Wednesday, 28th September.</p>
           
         </div>
         <div class="col-md mb-1 mt-sm-1">

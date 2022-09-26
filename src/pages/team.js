@@ -124,7 +124,7 @@ export default function Team() {
         <div class="col-md-6 col-lg-3">
           <div class="card bg-light">
             <div class="card-body text-center">
-              <img src="img/ethan.jpeg" class="rounded-circle mb-3 profile-pic" alt="" />
+              <img src="img/jiya.jpg" class="rounded-circle mb-3 profile-pic" alt="" />
               <h3 class="card-title mb-3">Jiya Kizhakkekattil</h3>
               <h6 class="card-subtitle">Head of Diversity &#38; Inclusivity</h6>
               <hr />

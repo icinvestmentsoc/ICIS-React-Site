@@ -103,16 +103,16 @@ export default function Home() {
               <div class="card bg-light text-dark">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                  Technical Interview Training
+                  <strong>Temasek Virtual Fireside Chat: Demystifying the Path to a Career in Finance</strong>
                   </div>
                 
                   <h3 class="card-title mb-3">
-                    <strong> Saturday 10 September 14:00-15:00 </strong>
+                     Wednesday 28 September 13:00-14:00 
                   </h3>
                   <h3 class="card-title mb-3">
-                    <strong>Online</strong>
+                    Online
                   </h3>
-                  <p class="card-text"> Speaker: Justin Wong   </p>
+                  <p class="card-text"> Sign up for the event here: https://bit.ly/3qRw1NF   </p>
 
                 </div>
               </div>
@@ -122,12 +122,12 @@ export default function Home() {
               <div class="card bg-secondary text-light">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                    Welcome Fair
+                  <strong> Welcome Fair </strong>
                   </div>
                   <h3 class="card-title mb-3">
                    Tuesday 4 October 11:00-16:00 </h3>
                   <h3 class="card-title mb-3">
-                    <strong>South Kensington Campus</strong>
+                    South Kensington Campus
                   </h3>
                   <p class="card-text mb-4">
                     {/*<p class="card-text"> 3 Feb: Real Estate Workshop 1   </p>
@@ -144,12 +144,12 @@ export default function Home() {
               <div class="card bg-light text-dark">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                   Investment Society Introduction Event
+                   <strong> Investment Society Introduction Event </strong>
                   </div>
                   <h3 class="card-title mb-3">
-                  Thursday 6 October time TBD  </h3>
+                  Thursday 6 October 18:00-19:00  </h3>
                   <h3 class="card-title mb-3">
-                    <strong>location: TBD</strong>
+                    Huxley 311
                   </h3>
                   <p class="card-text mb-4">
                     {/*<p class="card-text"> 5 Mar: Systematic Trading Workshop 1   </p>
