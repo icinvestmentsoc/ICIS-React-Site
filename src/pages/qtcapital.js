@@ -44,7 +44,8 @@ export default function QTCapital(){
         <section id="learn" class="pt-4 px-3 bg-white text-dark">
         <div class="container">
         <div class="row align-items-center justify-content-between">
-        <div class="col-md p-md-2 pt-1">
+        {/*<div class="col-md p-md-2 pt-1">*/}
+        <div>
             <h2 class="fw-bold">Team</h2>
             {/*Equity Team*/}
             <p class="fs-3">Equity Team</p>
@@ -99,9 +100,10 @@ export default function QTCapital(){
             </p>
         
         </div>
-        <div class="col-md p-md-2 pt-1">
+        
+        {/*<div class="col-md p-md-2 pt-1">
         <img src="img/qtcapital/balance.svg" class="mx-auto d-block" alt="" width="70%" />
-        </div>
+    </div>*/}
          </div>   
         </div>
     </section>
