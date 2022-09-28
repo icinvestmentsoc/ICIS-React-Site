@@ -177,7 +177,9 @@ export default function Home() {
             </div>
           </div>
         </div>
-      </section><section id="learn" class="py-5 p-lg-5 bg-dark text-light">
+      </section>
+      
+      <section id="learn" class="py-5 p-lg-5 bg-dark text-light">
         <div class="container">
           <div class="row align-items-center justify-content-between">
             <div class="col-md pt-4 p-md-5">
@@ -192,6 +194,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+
       <section class="pt-5 p-lg-5" id="questions">
         <div class="container">
           <h2 class="text-center mb-4">Frequently Asked Questions</h2>
@@ -212,34 +215,7 @@ export default function Home() {
               </div>
             </div>
             {/*Item 2*/}
-            <div class="accordion-item">
-              <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#question-two">
-                  When will the SEC form be released?
-                </button>
-              </h2>
-              <div id="question-two" class="accordion-collapse collapse" data-bs-parent="#question">
-                <div class="accordion-body">
-                  Our Securities and Education Certificate (SEC) will open for registration around the second week of October, with lectures shortly following.
-                  More information about the selection criteria and lecture syllabus will be released in due course – so be sure to sign up to our mailing list and our social media channels.
-                </div>
-              </div>
-            </div>
-            {/*Item 3*/}
-            <div class="accordion-item">
-              <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#question-three">
-                  Do I need to know anything before signing up to the SEC?
-                </button>
-              </h2>
-              <div id="question-three" class="accordion-collapse collapse" data-bs-parent="#question">
-                <div class="accordion-body">There is no prerequisite knowledge required for the SEC!
-                  The course has been designed this year with a  revised syllabus and teaching style to boost your knowledge and skills.
-                  It will deliver on fundamentals and technicals that you will need for a career in finance and investment, so don’t worry – we’ll take you from the basics.</div>
-              </div>
-            </div>
-            {/*Item 4*/}
-            <div class="accordion-item">
+            {/*<div class="accordion-item">
               <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#question-five">
                   What programmes does the society run? Can I join them?
@@ -250,10 +226,11 @@ export default function Home() {
                   More programmes will be opening up soon and we will be advertising them in our mailing list, alongside our social media channels!
                   They are open to all ICIS members who are Imperial College & Business School students enrolled in 2021/22. </div>
               </div>
-            </div>
+            </div>*/}
           </div>
-        </div>
-      </section><section class="py-3 p-lg-5">
+        </div> 
+      </section>
+      <section class="py-3 p-lg-5">
         <div class="container">
           <div class="row g-4">
             <div class="col-md">

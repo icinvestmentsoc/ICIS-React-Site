@@ -63,6 +63,7 @@ export default function Partners() {
             color: "transparent",
             WebkitBackgroundClip: "text", backgroundClip: "text"
           }}>OTHER SPONSORS</span> </h2>
+          {/*Temasek*/}
           <div class="row align-items-center justify-content-between">
             <div class="col-md mb-3 mb-md-0">
             <h3>Temasek</h3>
@@ -191,10 +192,42 @@ export default function Partners() {
               <p class="lead"> <strong>Can we help you next? For a no obligation, free consultation, contact Richard directly via
         email at richard@careerships.com or WhatsApp at <p>+44 7498 210461.</p>   </strong></p>*/}
               </div>
+            </div>
           </div>
-
-        </div>
       </section>
+
+      {/*EY*/}
+      <section id="learn" class="pt-3 px-3 pb-2 bg-light text-dark">
+        <div class="container">
+      <div class="row align-items-center justify-content-between">
+            <div class="col-md mb-3 mb-md-0">
+            <h3>EY-Parthenon</h3>
+              <p class="lead">EY-Parthenon is a global strategy consultancy. We challenge assumptions to design and deliver strategies 
+              that help improve profitability and long-term value. We have more than 9,000 professionals around the globe, 
+              working across three areas of focus:  </p>
+              <p class="lead">1.	Corporate & growth strategy: We help our clients answer their most complex strategic questions by 
+              providing in-depth market, competitor, customer and investment insights. We help our clients bring these recommendations 
+              to life in collaboration with the broad implementation capabilities of the wider EY firm. </p>
+              <p class="lead">2.	Transaction strategy & execution: We help our clients realise their full potential through fast-tracked, 
+              better-informed decisions across the whole investment lifecycle. We are complete business advisors combining operations, 
+              technology, cyber and software strategy skillsets.</p>
+              <p class="lead">3.	Turnaround & restructuring strategy: Whether a business is in crisis or is simply facing an operational challenge, 
+              this team is experienced in helping identify and prioritise the most critical issues, stabilize the business, establish a leadership 
+              and stakeholder consensus around the solution and deliver tangible results quickly.</p>
+              
+              <p class="lead">For more information about EY-Parthenon  please click on the button below.</p>
+              <div>
+                <a href="https://www.ey.com/en_uk/careers/parthenon/join" class="btn btn-primary btn-sm"><i class="bi bi-chevron-right"></i> LEARN MORE</a>
+              </div>
+            </div>
+            <div class="col-md mb-3 mb-md-0">
+              <div clas="col-md-6 offset-md-4 my-auto text-center">
+                <img class="mx-auto d-block" alt="Responsive image" src="img/partners/EY-Parthenon_Logo.png" width="50%" />
+              </div>
+            </div>
+          </div>
+        </div>
+        </section>
 
       {/* partners */}
       <section id="learn" class="pt-3 px-3 bg-white text-dark">
