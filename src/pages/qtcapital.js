@@ -13,6 +13,7 @@ export default function QTCapital(){
           Imperial College Investment Society. The fund is designed to give students a taster of the world 
           of institutional investing. Led by the investment officers, the fund’s research analysts will 
           pitch their best investment ideas on a weekly basis (@ Tuesday 6pm, Huxley 311).  </p>
+          <p class="lead"> Application is now open. The deadline is 14 October 23:59.</p>
         </div>
         <div class="col-md mb-1">
         <img src="img/qtcapital/QT capital Logo MK-II White.svg" class="mx-auto d-block" alt="" width="45%" />
@@ -76,7 +77,11 @@ export default function QTCapital(){
             <br />Analysts are in charge of conducting the investment pitches and analyses of the potential 
             companies they have identified as opportunities for the fund.</p>
             <p class="lead">We are currently recruiting for the roles of Sector Heads and Analysts.</p>
-            
+            <div>
+                <a href="https://forms.office.com/r/vBWFqJB73r" class="btn btn-primary btn-sm"><i class="bi bi-chevron-right"></i> APPLY</a>
+            </div>
+            <p class="lead"> </p>
+
             {/*Systematic Trading and Quantitative Research Team*/}
             <p class="fs-3">Systematic Trading and Quantitative Research Team</p>
             <p class="fs-4">Systematic Trading Team</p>
@@ -98,7 +103,10 @@ export default function QTCapital(){
             <br />3.	Calculating limit order fill probabilities
             <br />4.	Intraday volatility modelling
             </p>
-        
+            <div>
+                <a href="https://forms.office.com/r/DcepU4r705" class="btn btn-primary btn-sm"><i class="bi bi-chevron-right"></i> APPLY</a>
+            </div>
+            <p class="lead"> </p>
         </div>
         
         {/*<div class="col-md p-md-2 pt-1">

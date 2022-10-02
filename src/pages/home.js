@@ -110,7 +110,7 @@ export default function Home() {
                     Tuesday 4 October 11:00-16:00
                   </h3>
                   <h3 class="card-title mb-3">
-                    Stall 11, Senior Common Room, South Kensington Campus
+                    Senior Common Room, South Kensington Campus
                   </h3>
                   {/*<p class="card-text"> Sign up for the event here: https://bit.ly/3qRw1NF   </p>*/}
 
@@ -207,9 +207,8 @@ export default function Home() {
                 </button>
               </h2>
               <div id="question-one" class="accordion-collapse collapse" data-bs-parent="#question">
-                <div class="accordion-body">You can join our mailing list through the Imperial College Union (ICU) website by following the link above.
-                  Alternatively, you can click here to be taken to our ICU page.
-                  Log in using your shorthand Imperial College Username (e.g. abc123) and click the “Join” button
+                <div class="accordion-body">You can join our mailing list through the Imperial College Union (ICU) website by clicking the button "Free Membership"
+                  at the top of this page. Log in using your shorthand Imperial College Username (e.g. abc123) and click the “Join” button
                   underneath the membership row.
                 </div>
               </div>
