@@ -18,10 +18,10 @@ export default function SEC(){
           <p class="lead"> This year's SEC is a 7-part lecture series (held on Saturdays, starting from 15 October). Upon completion of the graded exam at the
             end of the course, you will be given a certificate that you can present to prospective
             employers on your CV. </p>
-          <p class="lead">Registration is now open. The deadline for registration is 12 October 11pm.</p>
-          <div>
+          <p class="lead">Registration is now closed.</p>
+          {/*<div>
                 <a href="https://forms.office.com/r/p8YurNE1Qn" class="btn btn-primary btn-sm"><i class="bi bi-chevron-right"></i> REGISTRATION</a>
-              </div>
+          </div>*/}
           
         </div>
         <div class="col-md mb-1 mt-sm-1">
