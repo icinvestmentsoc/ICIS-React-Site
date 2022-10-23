@@ -144,12 +144,12 @@ export default function Home() {
               <div class="card bg-light text-dark">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                   <strong> QT Capital Pitch </strong>
+                   <strong> Securities Education Certificate: Lecture 3</strong>
                   </div>
                   <h3 class="card-title mb-3">
-                    18:00 - 20:00, Thursday 27th October    </h3>
+                    11:00 - 13:00, Saturday 29th October    </h3>
                   <h3 class="card-title mb-3">
-                    Huxley 308
+                    City and Guilds Building LT 200
                   </h3>
                   <p class="card-text mb-4">
                     {/*<p class="card-text"> 5 Mar: Systematic Trading Workshop 1   </p>
