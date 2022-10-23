@@ -103,11 +103,11 @@ export default function Home() {
               <div class="card bg-light text-dark">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                  <strong>Breaking into Finance, Applications Tips and Tricks</strong>
+                  <strong>Brevan Howard x Elwood Networking Event </strong>
                   </div>
                 
                   <h3 class="card-title mb-3">
-                    Monday 17 October 18:00-19:00
+                    18:00 - 20:00, Tuesday and Wednesday 25th, 26th October 
                   </h3>
                   <h3 class="card-title mb-3">
                     Clore Lecture Theatre, Huxley 213
@@ -122,12 +122,12 @@ export default function Home() {
               <div class="card bg-secondary text-light">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                  <strong> Bank of America Networking Event</strong>
+                  <strong> EY-Parthenon Employer Presentation & Skills Workshop</strong>
                   </div>
                   <h3 class="card-title mb-3">
-                    Tuesday 18 October 18:00-20:00 </h3>
+                    18:30 - 20:00, Thursday 27th October      </h3>
                   <h3 class="card-title mb-3">
-                    City and Guilds Building LT200
+                    Skempton Building 201
                   </h3>
                   <p class="card-text mb-4">
                     {/*<p class="card-text"> 3 Feb: Real Estate Workshop 1   </p>
@@ -144,10 +144,10 @@ export default function Home() {
               <div class="card bg-light text-dark">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                   <strong> QT Capital Pitch 1 </strong>
+                   <strong> QT Capital Pitch </strong>
                   </div>
                   <h3 class="card-title mb-3">
-                    Thursday 20 October 18:00-19:00  </h3>
+                    18:00 - 20:00, Thursday 27th October    </h3>
                   <h3 class="card-title mb-3">
                     Huxley 308
                   </h3>
