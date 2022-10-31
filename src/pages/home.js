@@ -103,14 +103,14 @@ export default function Home() {
               <div class="card bg-light text-dark">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                  <strong>Brevan Howard x Elwood Networking Event </strong>
+                  <strong>QT Capital Pitch </strong>
                   </div>
                 
                   <h3 class="card-title mb-3">
-                    18:00 - 20:00, Tuesday and Wednesday 25th, 26th October 
+                    18:00 - 20:00, Tuesday 1st November
                   </h3>
                   <h3 class="card-title mb-3">
-                    Clore Lecture Theatre, Huxley 213
+                    Huxley 311
                   </h3>
                   {/*<p class="card-text"> Sign up for the event here: https://bit.ly/3qRw1NF   </p>*/}
 
@@ -122,12 +122,12 @@ export default function Home() {
               <div class="card bg-secondary text-light">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                  <strong> EY-Parthenon Employer Presentation & Skills Workshop</strong>
+                  <strong> Insight into Lazard</strong>
                   </div>
                   <h3 class="card-title mb-3">
-                    18:30 - 20:00, Thursday 27th October      </h3>
+                    18:00 - 20:00, Thursday 3rd November      </h3>
                   <h3 class="card-title mb-3">
-                    Skempton Building 201
+                    Huxley 308
                   </h3>
                   <p class="card-text mb-4">
                     {/*<p class="card-text"> 3 Feb: Real Estate Workshop 1   </p>
@@ -144,12 +144,13 @@ export default function Home() {
               <div class="card bg-light text-dark">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                   <strong> Securities Education Certificate: Lecture 3</strong>
+                   <strong> Securities Education Certificate: Lecture 4</strong>
                   </div>
                   <h3 class="card-title mb-3">
-                    11:00 - 13:00, Saturday 29th October    </h3>
+                    11:00 - 13:00, Saturday 5th November    </h3>
                   <h3 class="card-title mb-3">
-                    City and Guilds Building LT 200
+                    Clore Lecture Theatre, Huxley 213
+                    {/*City and Guilds Building LT 200*/}
                   </h3>
                   <p class="card-text mb-4">
                     {/*<p class="card-text"> 5 Mar: Systematic Trading Workshop 1   </p>
