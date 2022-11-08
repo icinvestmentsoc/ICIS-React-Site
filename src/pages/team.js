@@ -135,7 +135,7 @@ export default function Team() {
         <div class="col-md-6 col-lg-3">
           <div class="card bg-light">
             <div class="card-body text-center">
-              <img src="img/oscar_updated.jpg" class="rounded-circle mb-3 profile-pic" alt="" />
+              <img src="img/oscar.jpg" class="rounded-circle mb-3 profile-pic" alt="" />
               <h3 class="card-title mb-3">Oscar Wooding</h3>
               <h6 class="card-subtitle">Co - Head of Portfolio Management</h6>
               <hr />

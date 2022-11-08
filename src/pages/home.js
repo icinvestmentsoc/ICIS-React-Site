@@ -107,7 +107,7 @@ export default function Home() {
                   </div>
                 
                   <h3 class="card-title mb-3">
-                    18:00 - 20:00, Tuesday 1st November
+                    18:00 - 20:00, Tuesday 8th November
                   </h3>
                   <h3 class="card-title mb-3">
                     Huxley 311
@@ -122,10 +122,10 @@ export default function Home() {
               <div class="card bg-secondary text-light">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                  <strong> Insight into Lazard</strong>
+                  <strong> QT Capital Pitch</strong>
                   </div>
                   <h3 class="card-title mb-3">
-                    18:00 - 20:00, Thursday 3rd November      </h3>
+                    18:00 - 20:00, Thursday 10th November      </h3>
                   <h3 class="card-title mb-3">
                     Huxley 308
                   </h3>
@@ -144,13 +144,13 @@ export default function Home() {
               <div class="card bg-light text-dark">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                   <strong> Securities Education Certificate: Lecture 4</strong>
+                   <strong> Securities Education Certificate: Lecture 5</strong>
                   </div>
                   <h3 class="card-title mb-3">
-                    11:00 - 13:00, Saturday 5th November    </h3>
+                    11:00 - 13:00, Saturday 12th November    </h3>
                   <h3 class="card-title mb-3">
-                    Clore Lecture Theatre, Huxley 213
-                    {/*City and Guilds Building LT 200*/}
+                    {/* Clore Lecture Theatre, Huxley 213 */}
+                    City and Guilds Building LT 200
                   </h3>
                   <p class="card-text mb-4">
                     {/*<p class="card-text"> 5 Mar: Systematic Trading Workshop 1   </p>
