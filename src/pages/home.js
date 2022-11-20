@@ -107,11 +107,11 @@ export default function Home() {
                   </div>
                 
                   <h3 class="card-title mb-3">
-                    18:00 - 20:00, Tuesday 15th November
+                    18:30 - 20:00, Tuesday 22nd November
                   </h3>
                   <h3 class="card-title mb-3">
-                    City and Guilds Building LT 200
-                    {/* Huxley 311 */}
+                    {/* City and Guilds Building LT 200 */}
+                    Huxley 311
                   </h3>
                   {/*<p class="card-text"> Sign up for the event here: https://bit.ly/3qRw1NF   </p>*/}
 
@@ -123,12 +123,13 @@ export default function Home() {
               <div class="card bg-secondary text-light">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                  <strong> Women in Finance Panel</strong>
+                  <strong> Amplify x Morgan Stanley Trading Simulation </strong>
                   </div>
                   <h3 class="card-title mb-3">
-                    18:30 - 19:30, Thursday 17th November      </h3>
+                    18:30 - 21:00, Thursday 24th November      </h3>
                   <h3 class="card-title mb-3">
-                    Huxley 308
+                    Clore Lecture Theatre, Huxley 213
+                    {/* Huxley 308 */}
                   </h3>
                   <p class="card-text mb-4">
                     {/*<p class="card-text"> 3 Feb: Real Estate Workshop 1   </p>
@@ -145,10 +146,10 @@ export default function Home() {
               <div class="card bg-light text-dark">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                   <strong> Securities Education Certificate: Lecture 6</strong>
+                   <strong> Securities Education Certificate: Lecture 7</strong>
                   </div>
                   <h3 class="card-title mb-3">
-                    11:00 - 13:00, Saturday 19th November    </h3>
+                    11:00 - 13:00, Saturday 26th November    </h3>
                   <h3 class="card-title mb-3">
                     {/* Clore Lecture Theatre, Huxley 213 */}
                     City and Guilds Building LT 200
