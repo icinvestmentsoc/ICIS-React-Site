@@ -18,6 +18,44 @@ export default function Partners() {
                 )`,
             color: "transparent",
             WebkitBackgroundClip: "text", backgroundClip: "text"
+          }}> GOLD SPONSORS</span> </h2>
+          <div class="row align-items-center justify-content-between">
+            <div class="col-md mb-3 mb-md-0">
+              <h3>The D. E. Shaw group</h3>
+              <p class="lead">The D. E. Shaw group is a multinational hedge fund utilising advanced mathematics and 
+              sophisticated algorithms to produce market beating returns.  </p>
+              <p class="lead">The firm manages $55 billion and invests across alternative investments and long-oriented investments. </p>
+              
+              <div>
+                <a href="https://www.deshaw.com/" class="btn btn-primary btn-sm"><i class="bi bi-chevron-right"></i> LEARN MORE</a>&nbsp;&nbsp;&nbsp;&nbsp;
+              </div>
+            </div>
+            <div class="col-md mb-3 mb-md-0">
+              <div clas="col-md-6 offset-md-4 my-auto text-center">
+                <img class="mx-auto d-block" alt="Responsive image" src="img/partners/deshaw.png" width="50%" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+      {/* silver sponsors */}
+      <section id="learn" class="pt-3 pb-2 px-3 bg-dark text-light">
+        <div class="container">
+          <h2 style={{ textAlign: "center" }}> <span style={{
+            backgroundImage: `linear-gradient(
+                to right,
+                #282828 0,
+                #707070 22%, 
+                #a0a0a0 45%,
+                #c0c0c0 50%,
+                #a0a0a0 55%,
+                #707070 78%,
+                #282828 100%
+                )`,
+            color: "transparent",
+            WebkitBackgroundClip: "text", backgroundClip: "text"
           }}> SILVER SPONSORS</span> </h2>
           <div class="row align-items-center justify-content-between">
             <div class="col-md mb-3 mb-md-0">
@@ -49,20 +87,7 @@ export default function Partners() {
       {/* other sponsors */}
       <section id="learn" class="pt-3 px-3 pb-2 bg-light text-dark">
         <div class="container">
-        <h2 style={{ textAlign: "center" }}> <span style={{
-            backgroundImage: `linear-gradient(
-                to right,
-                #462523 0,
-                       #cb9b51 22%, 
-                #f6e27a 45%,
-                #f6f2c0 50%,
-                #f6e27a 55%,
-                #cb9b51 78%,
-                #462523 100%
-                )`,
-            color: "transparent",
-            WebkitBackgroundClip: "text", backgroundClip: "text"
-          }}>OTHER SPONSORS</span> </h2>
+        <h2 style={{ textAlign: "center" }}> <span> OTHER SPONSORS</span> </h2>
           {/*Temasek*/}
           <div class="row align-items-center justify-content-between">
             <div class="col-md mb-3 mb-md-0">
