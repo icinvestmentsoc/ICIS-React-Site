@@ -71,7 +71,9 @@ export default function Partners() {
               You can also find out more via www.moneymazepodcast.com.  </p>
               <div>
                 <a href="https://open.spotify.com/show/0uT0iw8BkDIvFH12Z3GJKR" class="btn btn-primary btn-sm"><i class="bi bi-chevron-right"></i> Spotify</a>&nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="https://podcasts.apple.com/gb/podcast/the-money-maze-podcast/id1504477769" class="btn btn-primary btn-sm"><i class="bi bi-chevron-right"></i> Apple Podcasts</a>
+                <a href="https://podcasts.apple.com/gb/podcast/the-money-maze-podcast/id1504477769" class="btn btn-primary btn-sm"><i class="bi bi-chevron-right"></i> Apple Podcasts</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://www.youtube.com/watch?v=9SStZiLZ-KQ&ab_channel=MoneyMazePodcast" class="btn btn-primary btn-sm"><i class="bi bi-chevron-right"></i> Introduction Video</a>
+                
               </div>
             </div>
             <div class="col-md mb-3 mb-md-0">
