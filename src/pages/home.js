@@ -103,11 +103,11 @@ export default function Home() {
               <div class="card bg-light text-dark">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                  <strong>Accounting and Valuation Course Part 2 </strong>
+                  <strong>The Healthcare Industry: A Scientist Turned Dealmaker’s Perspective </strong>
                   </div>
                 
                   <h3 class="card-title mb-3">
-                    18:30 - 20:00, Tuesday 7th February
+                    18:45 - 20:00, Thursday 9th March
                   </h3>
                   <h3 class="card-title mb-3">
                     {/* City and Guilds Building LT 200 */}
@@ -123,13 +123,13 @@ export default function Home() {
               <div class="card bg-secondary text-light">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                  <strong> Audacity Capital Prop Trading Event </strong>
+                  <strong> Annual General Meeting</strong>
                   </div>
                   <h3 class="card-title mb-3">
-                    18:30 - 21:00, Thursday 9th February      </h3>
+                    18:30, Monday 13th March      </h3>
                   <h3 class="card-title mb-3">
                     {/* Clore Lecture Theatre, Huxley 213 */}
-                    Huxley 311
+                    Online
                   </h3>
                   <p class="card-text mb-4">
                     {/*<p class="card-text"> 3 Feb: Real Estate Workshop 1   </p>
@@ -146,10 +146,10 @@ export default function Home() {
               <div class="card bg-light text-dark">
                 <div class="card-body text-center">
                   <div class="h2 mb-3">
-                   <strong> Accounting and Valuation Course Part 3</strong>
+                   <strong> QT Capital Grand Finale – Pitch Night</strong>
                   </div>
                   <h3 class="card-title mb-3">
-                    18:30 - 20:00, Tuesday 14th February    </h3>
+                    18:30 - 20:00, Tuesday 14th March     </h3>
                   <h3 class="card-title mb-3">
                     Huxley 308
                     {/* Clore Lecture Theatre, Huxley 213 */}
